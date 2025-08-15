@@ -119,7 +119,7 @@ The study concludes that the formation of **Blue and Orange Oceans is continuous
 
 This project draws upon the comprehensive research presented in:
 
-*   **Oceans Leadership.pdf**: A Comparison Analysis from the Leadership Perspective of the Ocean’s Strategies: From Red to Pink and Beyond. (Submitted by Snehal Srivastava, 23rd December 2022)
+*   **Oceans Strategies.pdf**: A Comparison Analysis from the Leadership Perspective of the Ocean’s Strategies: From Red to Pink and Beyond. (Submitted by Snehal Srivastava, 23rd December 2022)
 
 And also references the following works:
 *   Cavagnetto, S. and Gahir, B. (2013). Shades of Purple Strategy.
